@@ -1,12 +1,8 @@
-# Mobile DevOps Playbook
+# Mobile DevOps Security
 
-<a href="https://www.packtpub.com/product/mobile-devops-playbook/9781803242552"><img src="https://m.media-amazon.com/images/I/41kXfHTc96L._SX403_BO1,204,203,200_.jpg" alt="Book Name" height="256px" align="right"></a>
 
-This is the code repository for [Mobile DevOps Playbook](https://www.packtpub.com/product/mobile-devops-playbook/9781803242552), published by Packt.
 
-**A practical guide for delivering high-quality mobile applications like a pro**
-
-## What is this book about?
+## What is this about?
 To build mobile apps, you need to understand mobile-first features, tools, and processes that help you build, test, and release robust apps faster and more efficiently. The multitude of challenges stemming from mobile development's inherent complexities, including native iOS and Android app creation, cross-platform frameworks, and the implementation of scalable architectures within extensive teams, collectively contribute to a substantial number of obstacles that can significantly prolong the release process.
 This book will help you understand and implement the best practices of mobile DevOps for continuous integration, testing, delivery, deployment, and monitoring.
 
@@ -18,9 +14,7 @@ This book covers the following exciting features:
 * Implement continuous testing with mobile DevOps
 * Leverage Mobile DevSecOps to improve security, efficiency of your Mobile app development process
 
-If you feel this book is for you, get your [copy](https://www.amazon.com/Mobile-DevOps-Playbook-accelerating-high-quality/dp/1803242558) today!
 
-<a href="https://www.packtpub.com/?utm_source=github&utm_medium=banner&utm_campaign=GitHubBanner"><img src="https://raw.githubusercontent.com/PacktPublishing/GitHub/master/GitHub.png" alt="https://www.packtpub.com/" border="5" /></a>
 
 ## Instructions and Navigations
 All of the code is organized into folders. For example, Chapter05.
