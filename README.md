@@ -43,8 +43,3 @@ With the following software and hardware list you can run all code files present
 * Azure DevOps Explained [[Packt]](https://www.packtpub.com/product/azure-devops-explained/9781800563513) [[Amazon]](https://www.amazon.com/Azure-DevOps-Explained-started-practices/dp/1800563515)
 
 * Learning DevOps - Second Edition [[Packt]](https://www.packtpub.com/product/learning-devops-second-edition/9781801818964) [[Amazon]](https://www.amazon.com/Learning-DevOps-comprehensive-accelerating-Kubernetes/dp/1801818967)
-
-## Get to Know the Author
-**Moataz Nabil**
-He is an experienced Developer Advocate and Test Automation Consultant with a passion for building relationships with developers and customers. He has worked in software development and testing for over 12 years. During his career, he has led and managed teams of test automation engineers responsible for designing, developing, and maintaining automated testing solutions for software products. A frequent speaker at developer events and conferences in many countries.
-He has worked at Delivery Hero and Zalando SE. Currently, he is a developer advocate at Bitrise, building amazing products for mobile developers and promoting the Mobile DevOps platform. Additionally, he is an AWS Community Builder and a DevNetwork Advisory Board Member.
